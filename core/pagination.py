@@ -1,0 +1,2 @@
+class DBPagination(object):
+    pass

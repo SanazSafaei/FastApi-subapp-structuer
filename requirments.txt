@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+httptools
+uvloop
+python-dotenv
+passlib[argon2]
+orjson
+python-jose
+
+# for Form fastapi
+python-multipart
+
+# for FileResponse, StaticFiles fastapi
+aiofiles
