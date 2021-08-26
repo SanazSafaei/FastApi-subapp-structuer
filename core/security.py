@@ -8,7 +8,6 @@ from jose import jwt
 from core import settings
 
 
-# aragon2 for now is better than the rest.
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
 
